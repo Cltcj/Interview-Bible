@@ -1,4 +1,4 @@
-### 一、内联、宏定义、函数、typedef、static
+### 内联、宏定义、函数、typedef、static
 
 #### 1、全局变量和static变量的区别
 
